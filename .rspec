@@ -1,0 +1,2 @@
+# vi ~/.rspec
+--format documentation --color --fail-fast
